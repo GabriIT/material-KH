@@ -1,0 +1,457 @@
+0 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:0:0
+1 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:10:0
+2 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:11:0
+3 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:11:1
+4 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:12:0
+5 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:13:0
+6 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:14:0
+7 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:15:0
+8 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:16:0
+9 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:16:1
+10 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:17:0
+11 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:17:1
+12 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:18:0
+13 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:1:0
+14 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:1:1
+15 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:2:0
+16 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:2:1
+17 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:3:0
+18 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:3:1
+19 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:4:0
+20 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:4:1
+21 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:5:0
+22 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:5:1
+23 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:6:0
+24 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:6:1
+25 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:7:0
+26 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:7:1
+27 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:8:0
+28 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:8:1
+29 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:9:0
+30 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:9:1
+31 - data/04052024_AKRO_Guideline_for_ICF_Compounds_e.pdf:9:2
+32 - data/04052024_FE150065 BK010.pdf:0:0
+33 - data/04052024_FE150065 BK010.pdf:0:1
+34 - data/04052024_FE150065 BK010.pdf:0:2
+35 - data/04052024_FE150065 BK010.pdf:0:3
+36 - data/04052024_FE150065 BK010.pdf:0:4
+37 - data/04052024_FE150065 BK010.pdf:1:0
+38 - data/04052024_FE150065 BK010.pdf:1:1
+39 - data/04052024_Fastening_Solar Connector.pdf:0:0
+40 - data/04052024_Fastening_Solar Connector.pdf:0:1
+41 - data/04052024_Fastening_Solar Connector.pdf:1:0
+42 - data/04052024_Fastening_Solar Connector.pdf:1:1
+43 - data/04052024_Fastening_Solar Connector.pdf:1:2
+44 - data/04052024_GINAR GITOP _20200214.pdf:0:0
+45 - data/04052024_GINAR GITOP _20200214.pdf:10:0
+46 - data/04052024_GINAR GITOP _20200214.pdf:11:0
+47 - data/04052024_GINAR GITOP _20200214.pdf:12:0
+48 - data/04052024_GINAR GITOP _20200214.pdf:13:0
+49 - data/04052024_GINAR GITOP _20200214.pdf:14:0
+50 - data/04052024_GINAR GITOP _20200214.pdf:15:0
+51 - data/04052024_GINAR GITOP _20200214.pdf:16:0
+52 - data/04052024_GINAR GITOP _20200214.pdf:17:0
+53 - data/04052024_GINAR GITOP _20200214.pdf:18:0
+54 - data/04052024_GINAR GITOP _20200214.pdf:19:0
+55 - data/04052024_GINAR GITOP _20200214.pdf:1:0
+56 - data/04052024_GINAR GITOP _20200214.pdf:20:0
+57 - data/04052024_GINAR GITOP _20200214.pdf:21:0
+58 - data/04052024_GINAR GITOP _20200214.pdf:22:0
+59 - data/04052024_GINAR GITOP _20200214.pdf:23:0
+60 - data/04052024_GINAR GITOP _20200214.pdf:24:0
+61 - data/04052024_GINAR GITOP _20200214.pdf:25:0
+62 - data/04052024_GINAR GITOP _20200214.pdf:26:0
+63 - data/04052024_GINAR GITOP _20200214.pdf:27:0
+64 - data/04052024_GINAR GITOP _20200214.pdf:28:0
+65 - data/04052024_GINAR GITOP _20200214.pdf:29:0
+66 - data/04052024_GINAR GITOP _20200214.pdf:2:0
+67 - data/04052024_GINAR GITOP _20200214.pdf:30:0
+68 - data/04052024_GINAR GITOP _20200214.pdf:31:0
+69 - data/04052024_GINAR GITOP _20200214.pdf:32:0
+70 - data/04052024_GINAR GITOP _20200214.pdf:33:0
+71 - data/04052024_GINAR GITOP _20200214.pdf:34:0
+72 - data/04052024_GINAR GITOP _20200214.pdf:35:0
+73 - data/04052024_GINAR GITOP _20200214.pdf:36:0
+74 - data/04052024_GINAR GITOP _20200214.pdf:37:0
+75 - data/04052024_GINAR GITOP _20200214.pdf:38:0
+76 - data/04052024_GINAR GITOP _20200214.pdf:39:0
+77 - data/04052024_GINAR GITOP _20200214.pdf:3:0
+78 - data/04052024_GINAR GITOP _20200214.pdf:4:0
+79 - data/04052024_GINAR GITOP _20200214.pdf:5:0
+80 - data/04052024_GINAR GITOP _20200214.pdf:6:0
+81 - data/04052024_GINAR GITOP _20200214.pdf:7:0
+82 - data/04052024_GINAR GITOP _20200214.pdf:8:0
+83 - data/04052024_GINAR GITOP _20200214.pdf:9:0
+84 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:0:0
+85 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:10:0
+86 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:11:0
+87 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:12:0
+88 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:13:0
+89 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:14:0
+90 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:15:0
+91 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:16:0
+92 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:17:0
+93 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:18:0
+94 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:19:0
+95 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:1:0
+96 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:20:0
+97 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:21:0
+98 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:22:0
+99 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:23:0
+100 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:24:0
+101 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:25:0
+102 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:26:0
+103 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:27:0
+104 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:28:0
+105 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:29:0
+106 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:2:0
+107 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:30:0
+108 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:31:0
+109 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:32:0
+110 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:33:0
+111 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:33:1
+112 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:3:0
+113 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:4:0
+114 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:5:0
+115 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:6:0
+116 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:7:0
+117 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:8:0
+118 - data/04052024_Grilamid TR_Household_en_v2.9.pdf:9:0
+119 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:0:0
+120 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:10:0
+121 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:10:1
+122 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:10:2
+123 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:11:0
+124 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:11:1
+125 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:11:2
+126 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:11:3
+127 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:12:0
+128 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:12:1
+129 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:12:2
+130 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:13:0
+131 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:13:1
+132 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:13:2
+133 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:13:3
+134 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:13:4
+135 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:14:0
+136 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:14:1
+137 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:14:2
+138 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:15:0
+139 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:16:0
+140 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:16:1
+141 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:16:2
+142 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:16:3
+143 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:16:4
+144 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:17:0
+145 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:17:1
+146 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:17:2
+147 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:18:0
+148 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:18:1
+149 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:19:0
+150 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:19:1
+151 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:19:2
+152 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:20:0
+153 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:20:1
+154 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:21:0
+155 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:22:0
+156 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:22:1
+157 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:22:2
+158 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:22:3
+159 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:22:4
+160 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:23:0
+161 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:23:1
+162 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:24:0
+163 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:25:0
+164 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:26:0
+165 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:26:1
+166 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:26:2
+167 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:26:3
+168 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:27:0
+169 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:27:1
+170 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:27:2
+171 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:28:0
+172 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:28:1
+173 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:28:2
+174 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:28:3
+175 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:29:0
+176 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:29:1
+177 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:29:2
+178 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:29:3
+179 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:29:4
+180 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:29:5
+181 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:2:0
+182 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:2:1
+183 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:2:2
+184 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:30:0
+185 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:30:1
+186 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:30:2
+187 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:30:3
+188 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:31:0
+189 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:31:1
+190 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:31:2
+191 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:31:3
+192 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:31:4
+193 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:32:0
+194 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:32:1
+195 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:32:2
+196 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:33:0
+197 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:34:0
+198 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:34:1
+199 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:34:2
+200 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:34:3
+201 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:34:4
+202 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:35:0
+203 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:35:1
+204 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:35:2
+205 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:3:0
+206 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:3:1
+207 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:3:2
+208 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:3:3
+209 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:3:4
+210 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:3:5
+211 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:3:6
+212 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:3:7
+213 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:4:0
+214 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:4:1
+215 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:4:2
+216 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:4:3
+217 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:4:4
+218 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:4:5
+219 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:4:6
+220 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:5:0
+221 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:6:0
+222 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:6:1
+223 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:6:2
+224 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:6:3
+225 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:6:4
+226 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:7:0
+227 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:8:0
+228 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:8:1
+229 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:8:2
+230 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:8:3
+231 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:8:4
+232 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:9:0
+233 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:9:1
+234 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:9:2
+235 - data/04052024_PPS-050_Fortron_DesignManualTG_AM_0913.pdf:9:3
+236 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:0:0
+237 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:10:0
+238 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:10:1
+239 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:10:2
+240 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:11:0
+241 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:11:1
+242 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:11:2
+243 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:12:0
+244 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:12:1
+245 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:12:2
+246 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:12:3
+247 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:13:0
+248 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:14:0
+249 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:14:1
+250 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:14:2
+251 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:14:3
+252 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:14:4
+253 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:15:0
+254 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:15:1
+255 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:15:2
+256 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:16:0
+257 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:16:1
+258 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:16:2
+259 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:17:0
+260 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:17:1
+261 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:18:0
+262 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:18:1
+263 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:18:2
+264 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:18:3
+265 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:19:0
+266 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:19:1
+267 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:19:2
+268 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:19:3
+269 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:1:0
+270 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:1:1
+271 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:1:2
+272 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:1:3
+273 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:20:0
+274 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:20:1
+275 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:20:2
+276 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:20:3
+277 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:21:0
+278 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:21:1
+279 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:21:2
+280 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:21:3
+281 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:22:0
+282 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:23:0
+283 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:23:1
+284 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:23:2
+285 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:24:0
+286 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:24:1
+287 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:24:2
+288 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:25:0
+289 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:25:1
+290 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:26:0
+291 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:26:1
+292 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:26:2
+293 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:26:3
+294 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:26:4
+295 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:27:0
+296 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:27:1
+297 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:28:0
+298 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:28:1
+299 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:28:2
+300 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:29:0
+301 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:29:1
+302 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:29:2
+303 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:29:3
+304 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:29:4
+305 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:2:0
+306 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:2:1
+307 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:2:2
+308 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:2:3
+309 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:30:0
+310 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:30:1
+311 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:30:2
+312 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:30:3
+313 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:30:4
+314 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:30:5
+315 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:31:0
+316 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:31:1
+317 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:31:2
+318 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:31:3
+319 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:31:4
+320 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:32:0
+321 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:32:1
+322 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:32:2
+323 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:32:3
+324 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:33:0
+325 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:33:1
+326 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:33:2
+327 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:33:3
+328 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:33:4
+329 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:34:0
+330 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:34:1
+331 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:35:0
+332 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:35:1
+333 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:35:2
+334 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:35:3
+335 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:35:4
+336 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:36:0
+337 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:37:0
+338 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:37:1
+339 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:37:2
+340 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:37:3
+341 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:37:4
+342 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:38:0
+343 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:38:1
+344 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:38:2
+345 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:38:3
+346 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:38:4
+347 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:39:0
+348 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:39:1
+349 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:39:2
+350 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:39:3
+351 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:39:4
+352 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:3:0
+353 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:3:1
+354 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:3:2
+355 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:3:3
+356 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:40:0
+357 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:40:1
+358 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:41:0
+359 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:41:1
+360 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:41:2
+361 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:41:3
+362 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:41:4
+363 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:42:0
+364 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:42:1
+365 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:42:2
+366 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:42:3
+367 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:42:4
+368 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:43:0
+369 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:43:1
+370 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:43:2
+371 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:43:3
+372 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:44:0
+373 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:44:1
+374 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:44:2
+375 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:44:3
+376 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:45:0
+377 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:45:1
+378 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:45:2
+379 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:45:3
+380 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:45:4
+381 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:46:0
+382 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:46:1
+383 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:46:2
+384 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:46:3
+385 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:46:4
+386 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:47:0
+387 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:47:1
+388 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:47:2
+389 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:47:3
+390 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:47:4
+391 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:48:0
+392 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:48:1
+393 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:48:2
+394 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:48:3
+395 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:48:4
+396 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:49:0
+397 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:49:1
+398 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:49:2
+399 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:49:3
+400 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:49:4
+401 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:4:0
+402 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:4:1
+403 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:4:2
+404 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:4:3
+405 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:4:4
+406 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:50:0
+407 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:50:1
+408 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:50:2
+409 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:50:3
+410 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:51:0
+411 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:5:0
+412 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:5:1
+413 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:5:2
+414 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:5:3
+415 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:5:4
+416 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:5:5
+417 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:6:0
+418 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:6:1
+419 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:6:2
+420 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:6:3
+421 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:6:4
+422 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:6:5
+423 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:7:0
+424 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:7:1
+425 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:7:2
+426 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:8:0
+427 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:8:1
+428 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:8:2
+429 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:8:3
+430 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:8:4
+431 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:9:0
+432 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:9:1
+433 - data/2018-EncyclopediaofPolymerScienceandTechnology.pdf:9:2
+434 - data/monopoly.pdf:0:0
+435 - data/monopoly.pdf:0:1
+436 - data/monopoly.pdf:1:0
+437 - data/monopoly.pdf:1:1
+438 - data/monopoly.pdf:1:2
+439 - data/monopoly.pdf:2:0
+440 - data/monopoly.pdf:2:1
+441 - data/monopoly.pdf:2:2
+442 - data/monopoly.pdf:3:0
+443 - data/monopoly.pdf:3:1
+444 - data/monopoly.pdf:3:2
+445 - data/monopoly.pdf:4:0
+446 - data/monopoly.pdf:4:1
+447 - data/monopoly.pdf:4:2
+448 - data/monopoly.pdf:5:0
+449 - data/monopoly.pdf:5:1
+450 - data/monopoly.pdf:5:2
+451 - data/monopoly.pdf:6:0
+452 - data/monopoly.pdf:6:1
+453 - data/monopoly.pdf:6:2
+454 - data/monopoly.pdf:7:0
+455 - data/monopoly.pdf:7:1
+456 - data/monopoly.pdf:7:2
