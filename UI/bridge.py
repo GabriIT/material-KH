@@ -12,27 +12,44 @@ def get_llm_response(prompt: str):
     
     response = requests.post(url, json={"Prompt": prompt})    
     answer = response.json()
+   
+    # answer_pythondict = answer["Response"]
+    # sources_python = answer["Sources"]
+    # print(answer_pythondict, sources_python)
+    
     # return answer
     # return answer["Response"], answer["Sources"]
-    return answer["Response"]
+    return answer
 
 
+def get_response():
+     # Catch the exception and retry a few times.   
+    max_retry = 5
+    for i in range(max_retry):
+        try:
+            response = requests.get(
+                "http://app.athenalabo.com/api/thread/pending",
+                headers={"X-API-KEY": "secret"},
+            )
+            response.raise_for_status()
 
+            return response
+        except Exception as e:
+            if i == max_retry - 1:
+                raise e
+            else:
+                print(f"Error {e} while trying to get pending threads. Retrying...")
 
-def main():
-    # Initialize chatbot
-    # chain = initialize_chatbot()
-
+def main(): 
+    interval = 5
     while True:
-        response = requests.get(
-            "http://app.athenalabo.com/api/thread/pending",
-            headers={"X-API-KEY": "secret"},
-        )
-        response.raise_for_status()
+        reply = get_response()
 
-        threads = response.json()
+        threads = reply.json()
         if threads is None:
             print("No threads pending...")
+            time.sleep(interval)
+
             continue
 
         print(f"Answering {len(threads)}...")
@@ -47,21 +64,22 @@ def main():
             response.raise_for_status()
 
             messages = response.json()["messages"]
-            # answer = ai_answer(messages[-1]["content"])
-
             answer = get_llm_response(messages[-1]["content"])
-            print(answer)
-            
-            
+
+                     
             response = requests.post(
                 f"http://app.athenalabo.com/api/thread/{thread['id']}/prompt/answer",
-                json={"content": answer},
+                json={"content": answer["Response"],
+                     },
                 headers={"X-API-KEY": "secret"},
             )
+            
+            
+            
             response.raise_for_status()
-            # print(response["content"])
-        time.sleep(5)
 
+        time.sleep(interval)
+        
 
 if __name__ == '__main__':
     main()
