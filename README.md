@@ -1,7 +1,9 @@
 ## env
 Use flask env for UI and gpu env for querydata.py and populate_database.py
 
+# It ingest PDF and md files - last version 4.Jan.2025
 
+# please use docling to convert any file format into md
 
 # Reference rag-tutorial-v2
 https://www.youtube.com/watch?v=2TJxpyO3ei4&t=847s

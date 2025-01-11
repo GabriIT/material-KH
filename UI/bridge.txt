@@ -41,7 +41,7 @@ def get_response():
                 print(f"Error {e} while trying to get pending threads. Retrying...")
 
 def main(): 
-    interval = 3
+    interval = 5
     while True:
         reply = get_response()
 

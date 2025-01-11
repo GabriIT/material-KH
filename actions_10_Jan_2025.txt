@@ -1,0 +1,13 @@
+Thanks Mateus for your great support. The customer is willing to proceed and there are now two parts to develop: HW and SW. For the HW I will try to list up and update all I have been using and adding some devices to have their office-ready for an initial start. For the SW below are the basic functions we discussed. If yoiu have inputs and additional, they are welcome. As soon as our prototype is ready we may start to cooperate with them on one side and to have our own 'service-company' on the other. I expect to meet Eutop owner around mid February. Tentative target is to have HW and SW ready by end of Oct..2025. Hereafter the basic SW requirements. - Add the Chat UI to a website -> test ai.athenalabo.com
+- Add a button to the UI that will allow the upload file to process (embedding and classification)
+- Add a app in the backend for add additional files to the database embedding
+- Use pgvector as extension pgvectorscale, integrated into Postgresql as embedding vector database alternative to ChromaDB
+- Add a app to convert pptx, wordx, pdf to markdown file to embed into vector database
+- Add a backend app to index multi-modal embedded information
+- Add a backend app to process multi-modal, not only text but also pictures, videos, audio, etc.
+- Add a button to the UI that will allow the assess correctness of the answer and provide a string of comment if the answer is wrong.
+- Add a button to the UI that will allow the user to save the current chat session to a file.
+- Add a button to the UI that will allow the user to load a saved chat session from a file.
+- Add a button to the UI that will allow the user to delete a saved chat session from a file.
+- Add a button to the UI that will allow the user to delete all saved chat sessions from a file.
+What about setting up a Github repo and work with pending issue with it ? I guess you have experience with it though for me would be the first time. All items are to be break-down in further details and eventually some partially outsourced. As for the SW frame work I understand you used Golang and React TypeScript. It is up to you if you are willing to keep this framework or you have alternative suggestions. Finally I am still reflecting how to deal / negotiate with Eutop's owner the future cooperation. Please let me knwo your ideas and we can find a time to discuss them. His intention I think is to have us as 'partners' in the development of this business. My role for his business is to have the knowledge of high-performing polymeric materials in applications development, processing and production and material science while integrating it into the AI system we are developing.  As for your role, I know your value.
